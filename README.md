@@ -1,6 +1,6 @@
 ### Hi there 👋 Nice to meet you.
 
-I work as a ~~Android Developer~~ based in Nairobi, Kenya.
+I work as a Android Developer based in Nairobi, Kenya.
 
 ### Find me elsewhere 🌎
 
