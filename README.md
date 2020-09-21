@@ -1,6 +1,7 @@
 ### Hi there 👋 Nice to meet you.
 
 I am an Android Developer based in Nairobi, Kenya.
+![github stats](https://github-readme-stats.vercel.app/api?username=ronnieotieno&show_icons=true&count_private=true&line_height=33)
 
 ### Find me elsewhere 🌎
 
