@@ -2,6 +2,8 @@
 
 I am an Android Developer based in Nairobi, Kenya.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronnieotieno" alt="jenniekibiri" /> </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronnieotieno&hide=html)
 
 ### Find me elsewhere 🌎
