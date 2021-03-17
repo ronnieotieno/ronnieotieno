@@ -1,6 +1,6 @@
 ### Hi there 👋 Nice to meet you.
 
-I am an Android Developer based in Nairobi, Kenya.
+I am a Google certified Android Developer based in Nairobi, Kenya.
 
 ### Find me elsewhere 🌎
 
