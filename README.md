@@ -1,6 +1,6 @@
 ### Hi there 👋 Nice to meet you.
 
-I am an Android Developer, also, Google Certified AAD based in Nairobi, Kenya.
+I am an Android Developer, as well as, Google Certified AAD based in Nairobi, Kenya.
 
 ### Find me elsewhere 🌎
 
